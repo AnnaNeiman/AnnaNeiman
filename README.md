@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @AnnaNeiman
-- 👀 I’m interested in UI/UX Design
+👋 Hi! 
+
+I’m @AnnaNeiman a UI/UX Designer currently located in Denver Colorado. 
+
 - 🌱 I’m currently learning Frontend Development 
 - 📫 Reach me at annaneimandesigns@gmail.com
 
