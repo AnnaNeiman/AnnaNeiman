@@ -3,7 +3,7 @@
 I’m @AnnaNeiman a UI/UX Designer currently located in Denver Colorado. 
 
 - 🌱 I’m currently learning Frontend Development
-- Pronouns: She/her/hers
+- 😄 Pronouns: She/her/hers
 - 📫 Reach me at annaneimandesigns@gmail.com
 
 <!---
