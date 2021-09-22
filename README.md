@@ -1,6 +1,6 @@
 👋 Hi! 
 
-I’m @AnnaNeiman a UI/UX Designer currently located in Denver Colorado. 
+I’m a UI/UX Designer currently located in Denver Colorado. 
 
 - 🌱 I’m currently learning Frontend Development
 - 😄 Pronouns: She/her/hers
