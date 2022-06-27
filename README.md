@@ -2,9 +2,7 @@ Hi! 👋
 
 😄 Pronouns: She/her/hers
 
-I’m a UI/UX designer who is passionate about designing for users. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect. In my previous roles I have had experience in designing websites and other branding materials across various industries. 
-
-I’m looking to bring my skills as a UI/UX designer to a team that provides innovative and engaging user-focused design solutions. 
+I’m a Product designer who advocates for exceptional design and user experience. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect. I’m looking to bring my skills as a Product designer to a team that provides innovative and engaging user-focused design solutions. 
 
 My Key Skills include:
 - UX Research
@@ -17,13 +15,13 @@ My Key Skills include:
 - Adobe XD 
 - Figma
 - Invision
+- Miro
 - Adobe Suite
 - HTML
 - CSS
 - Javascript 
 
-
-Check out my website to view skills in action at annaneimandesign.com
+Check out my website to view my skills in action at annaneimandesign.com.
 
 📫 Reach me at aneiman.design@gmail.com
 
