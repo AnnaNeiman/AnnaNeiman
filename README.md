@@ -1,6 +1,7 @@
 Hey there! 👋
 
-I’m a Product designer who advocates for exceptional design and user experience. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect. 
+I’m a Product designer who advocates for exceptional design and user experience. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect.
+
 My Key Skills include:
 - UX Research
 - Competitive Analysis
