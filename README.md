@@ -2,8 +2,7 @@ Hi! 👋
 
 😄 Pronouns: She/her/hers
 
-I’m a Product designer who advocates for exceptional design and user experience. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect. I’m looking to bring my skills as a Product designer to a team that provides innovative and engaging user-focused design solutions. 
-
+I’m a Product designer who advocates for exceptional design and user experience. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect. 
 My Key Skills include:
 - UX Research
 - Competitive Analysis
@@ -17,8 +16,8 @@ My Key Skills include:
 - Invision
 - Miro
 - Adobe Suite
-- HTML
-- CSS
+- HTML5
+- CSS5
 - Javascript 
 
 Check out my website to view my skills in action at annaneimandesign.com.
