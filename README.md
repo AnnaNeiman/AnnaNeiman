@@ -1,23 +1,10 @@
 Hey there! 👋
 
-I’m a Product designer who advocates for exceptional design and user experience. My background in visual design helps me create UI designs that are simple, aesthetically pleasing, and typographically perfect.
+I'm a Product Designer & Frontend Developer.
 
-My Key Skills include:
-- UX Research
-- Competitive Analysis
-- User Flows, Stories & Personas
-- Usability Testing
-- Wire-framing
-- Prototyping
-- Sketch
-- Adobe XD 
-- Figma
-- Invision
-- Miro
-- Adobe Suite
-- HTML5
-- CSS5
-- Javascript 
+Driven by a love for helping people. I thrive on the challenge of understanding users' needs and translating them into solutions that feel natural.
+
+I simplify the complex, creating interfaces that speak to the user effortlessly in a way that is both beautiful and profoundly intuitive.
 
 Check out my website to view my skills in action at annaneimandesign.com.
 
